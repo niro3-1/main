@@ -1,4 +1,7 @@
-Release v1.0.4
+# Release Notes
+
+## v1.0.5
+- Create fresh release file
 
 ## v1.0.4
 - Resolve merge conflicts for release v1.0.3 in pull request #4
